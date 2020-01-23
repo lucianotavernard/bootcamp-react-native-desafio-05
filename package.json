@@ -1,4 +1,7 @@
 {
+  "name": "rocketshoes-mobile",
+  "version": "1.0.0",
+  "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -51,6 +54,5 @@
     "eslint-plugin-react-hooks": "^1.7.0",
     "eslint-plugin-react-native": "^3.8.1",
     "prettier": "^1.19.1"
-  },
-  "private": true
+  }
 }
