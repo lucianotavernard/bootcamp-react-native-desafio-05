@@ -6,6 +6,12 @@
 
 <p align="center">Código do desafio do 7º módulo do Bootcamp GoStack 🎓</p>
 
+## 💻 Projeto
+
+RocketShoes é uma aplicação de compras online. A aplicação Web e a aplicação mobile podem ser usadas pelos usuários que querem efetuarem compras de maneira simples e fácil.
+
+Essa aplicação foi desenvolvida para o desafio do 7º modulo do GoStack 7.0.
+
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
